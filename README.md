@@ -1,4 +1,4 @@
-# Applied Penetration Testing & Web Reconnaissance Labs
+# Applied Penetration Testing Labs
 
 ## 📌 Project Overview
 This repository contains a comprehensive collection of hands-on cybersecurity lab exercises focused on **Web Application Reconnaissance**, **Network Discovery**, and **Penetration Testing Techniques**. The primary objective is to demonstrate practical knowledge of information gathering, vulnerability assessment, network pivoting, and traffic analysis using industry-standard security tools in a controlled environment.
